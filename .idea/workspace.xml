@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ed1890a-9d02-4c49-bfab-7b68d8dd8f74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/RandomUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/RandomUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -165,7 +167,7 @@
       <workItem from="1627091353713" duration="709000" />
       <workItem from="1627479312938" duration="7458000" />
       <workItem from="1627993013929" duration="1417000" />
-      <workItem from="1631413097227" duration="68000" />
+      <workItem from="1631413097227" duration="258000" />
     </task>
     <servers />
   </component>

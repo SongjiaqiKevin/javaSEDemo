@@ -174,6 +174,4 @@ public class RandomUtil {
         String lhex = Long.toHexString(lvar);
         System.out.println(lhex);
     }
-
-
 }
